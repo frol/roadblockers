@@ -12,3 +12,7 @@ of them to keep them in mind, so I need a place to track them.
 ## Linux Desktop
 
 * Gnome 3 Stuttering / lagging desktop animations after suspend (X11 and Wayland) https://bugzilla.gnome.org/show_bug.cgi?id=764253
+
+## Swagger
+
+* OAuth2 Password Flow modes do not match RFC https://github.com/swagger-api/swagger-ui/issues/3227
