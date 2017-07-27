@@ -17,3 +17,7 @@ of them to keep them in mind, so I need a place to track them.
 
 * OAuth2 Password Flow modes do not match RFC https://github.com/swagger-api/swagger-ui/issues/3227
 * Non-required integer parameter becomes required https://github.com/swagger-api/swagger-ui/issues/3361
+
+## Rancher
+
+* Memory usage is misleading https://github.com/rancher/rancher/issues/2953
