@@ -12,6 +12,7 @@ of them to keep them in mind, so I need a place to track them.
 ## Linux Desktop
 
 * Gnome 3 Stuttering / lagging desktop animations after suspend (X11 and Wayland) https://bugzilla.gnome.org/show_bug.cgi?id=764253
+* Monitor refresh rate is hard-coded to 60Hz (my laptop monitor supports only 48Hz) https://bugzilla.gnome.org/show_bug.cgi?id=781296
 
 ## Swagger
 
